@@ -1,0 +1,6 @@
+@NoorGraphics_HostAddress = http://localhost:5208
+
+GET {{NoorGraphics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
